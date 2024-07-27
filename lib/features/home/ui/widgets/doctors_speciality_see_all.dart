@@ -1,5 +1,5 @@
-import 'package:doctor_app/core/theming/styles.dart';
 import 'package:flutter/material.dart';
+import 'package:doctor_app/core/theming/styles.dart';
 
 class DoctorsSpecialitySeeAll extends StatelessWidget {
   const DoctorsSpecialitySeeAll({super.key});
