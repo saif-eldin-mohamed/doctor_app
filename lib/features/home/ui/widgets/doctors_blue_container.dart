@@ -1,5 +1,5 @@
-import 'package:doctor_app/core/helpers/spacing.dart';
 import 'package:flutter/material.dart';
+import 'package:doctor_app/core/helpers/spacing.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../../../../core/theming/styles.dart';
@@ -60,7 +60,7 @@ class DoctorsBlueContainer extends StatelessWidget {
             right: 8.w,
             top: 0,
             child: Image.asset(
-              'assets/images/home_doctor.png',
+              'assets/images/omar.png',
               height: 200.h,
             ),
           ),

@@ -1,4 +1,3 @@
-
 import 'package:doctor_app/core/networking/api_error_handler.dart';
 import 'package:doctor_app/core/networking/api_result.dart';
 import 'package:doctor_app/features/home/data/apis/home_api_service.dart';
